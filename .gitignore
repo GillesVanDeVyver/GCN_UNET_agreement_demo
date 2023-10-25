@@ -1,8 +1,6 @@
 
 cmake-build-debug/
 
-models/
-
 build/
 
 .idea/
