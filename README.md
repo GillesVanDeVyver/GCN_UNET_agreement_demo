@@ -63,3 +63,7 @@ and
     ```powershell
     .\Release\real_time_demo.exe --mhd_file_location path/to/mhd/file_#.mhd --gcn_model_loc path/to/gcn/model.onnx --unet_model_loc path/to/unet/model.onnx
     ```
+
+## Contact
+For questions, please contact:
+[gilles.van.de.vyver@ntnu.no](mailto:gilles.van.de.vyver@ntnu.no)
