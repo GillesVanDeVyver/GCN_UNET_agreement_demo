@@ -4,3 +4,7 @@ cmake-build-debug/
 build/
 
 .idea/
+
+models/GCN_camus_cv1.onnx
+
+models/nnunet_camus_cv1.onnx

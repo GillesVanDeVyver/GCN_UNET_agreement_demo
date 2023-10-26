@@ -24,7 +24,7 @@ using namespace fast;
 int main(int argc, char** argv) {
 
     // Reducing the framerate might be necessary on low end GPUs
-    int framerate=60;
+    int framerate=20;
 
     // assuming working directory is build
     std::cout << "Current working directory: " << std::filesystem::current_path() << '\n';
