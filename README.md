@@ -22,9 +22,9 @@ You need git, cmake and a C++ compiler (e.g. gcc on Linux, visual studio on Wind
    The models directory should contain trained .onnx models for the default configuration to work.
 Models trained on CAMUS can be downloaded at:
 
-- https://huggingface.co/gillesvdv/nnunet_camus_cv1
+- https://huggingface.co/gillesvdv/nnunet_camus_cv1_onnx
 and
-- https://huggingface.co/gillesvdv/GCN_camus_cv1
+- https://huggingface.co/gillesvdv/GCN_with_displacement_camus_cv1_onnx
 4. Setup build environment using CMake  
    *Linux (Ubuntu)*
    ```bash
