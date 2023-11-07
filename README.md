@@ -10,6 +10,7 @@ For the code of the framework to train the model, see https://github.com/gillesv
 
 The GCN and nnU-Net segmentations are shown on the left and right side respectively.
 The color-coded status bar on top visualizes the agreement between the models.
+The full demo video is availabel at https://doi.org/10.6084/m9.figshare.24230194.
 
 Setup
 ----------------------------------
