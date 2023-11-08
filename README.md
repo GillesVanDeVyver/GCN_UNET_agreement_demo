@@ -2,7 +2,7 @@ Real time GCN-UNET agreement demo
 ==================================
 
 This repository is the source code for the real-time demo of
-[Towards Robust Cardiac Segmentation using Graph Convolutional Networks](https://arxiv.org/abs/1911.04429).
+[Towards Robust Cardiac Segmentation using Graph Convolutional Networks](https://arxiv.org/abs/2310.01210).
 We use the GCN with displacement method and nnU-Net described in this article.
 For the code of the framework to train the model, see https://github.com/gillesvntnu/GCN_multistructure.git.
 
