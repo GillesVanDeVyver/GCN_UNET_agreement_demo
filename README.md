@@ -20,6 +20,7 @@ You need git, cmake and a C++ compiler (e.g. gcc on Linux, visual studio on Wind
 1. Either
    - [Install a release of FAST](https://fast.eriksmistad.no/install.html) **OR**
    - Compile and install FAST on your system: See instructions here for [Windows](https://fast.eriksmistad.no/building-on-windows.html) or [Linux (Ubuntu)](https://fast.eriksmistad.no/install-ubuntu-linux.html).
+   - Depending on your setup, it might be necessary to install OpenGL to run streaming.
 2. Clone this repository
    ```bash
    git clone https://github.com/gillesvntnu/GCN_UNET_agreement_demo.git
