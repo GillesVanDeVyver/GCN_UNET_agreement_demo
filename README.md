@@ -73,5 +73,10 @@ and
     ```
 
 ## Contact
-For questions, please contact:
-[gilles.van.de.vyver@ntnu.no](mailto:gilles.van.de.vyver@ntnu.no)
+
+Developer: <br />
+[https://gillesvandevyver.com/](https://gillesvandevyver.com/)
+
+Management: <br />
+lasse.lovstakken@ntnu.no <br />
+erik.smistad@ntnu.no <br />
